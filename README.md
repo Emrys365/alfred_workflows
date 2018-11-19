@@ -9,7 +9,7 @@
 
 #### Examples:
 
-![image-20181119234823115](/Users/wyz/Library/Application Support/typora-user-images/image-20181119234823115.png)
+![demo](Simplify_fractions/demo.png)
 
 + `frac .11`  ==>  `.11 = 11 / 100`
 + `frac 4/6`  ==>  `4/6 = 2 / 3`
@@ -17,6 +17,6 @@
 
 #### Download:
 
-Go [here](https://github.com/Emrys365/alfred_workflows/Simplify_fractions/Simplify_fractions.alfredworkflow) and download it directly.
+Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/Simplify_fractions/Simplify_fractions.alfredworkflow) and download it directly.
 
 ### 2. To be continued...
