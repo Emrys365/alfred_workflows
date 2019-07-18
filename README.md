@@ -137,7 +137,7 @@ Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/cdTool/cd.alf
 
 ##### Description:
 
-Two $convenient$ tools for converting a character to unicode and converting a unicode to character.
+Two *convenient​* tools for converting a character to unicode and converting a unicode to character.
 
 ##### Download:
 
