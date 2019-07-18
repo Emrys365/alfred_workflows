@@ -99,7 +99,7 @@ This workflow could help you:
 
 It can remember at most MAX_LENGTH history records that you searched before and you can access them again conveniently.
 
-> MAX_LENGTH is a variable that limits the maximum number of records to remember, and you could modify it as you like in the right panel.
+> MAX_LENGTH is a variable that limits the maximum number of records to remember, and you could modify it as you like in `Workflow Configuration (Environment Variables)`.
 
 ##### Download:
 
@@ -133,5 +133,37 @@ Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/cdTool/cd.alf
 
 ---
 
-### 3. To be continued
+### 3. Unicode tools
+
+##### Description:
+
+Two $convenient$ tools for converting a character to unicode and converting a unicode to character.
+
+##### Download:
+
+Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/UnicodeTools/UnicodeTools.alfredworkflow) and download it directly.
+
+#### 1) Character to Unicode
+
+##### Examples:
+
+##### ![demo1](UnicodeTools/demo1.1.jpg)
+
++ `uni 9`  ==>  `57`
++ `uni √`  ==>  `\u221a`
++ `uni 好` ==> `\u597d`
+
+#### 2) Unicode to Character
+
+##### Examples:
+
+![demo1](UnicodeTools/demo2.1.jpg)
+
+![demo1](UnicodeTools/demo2.2.jpg)
+
+- `chr 65`  ==>  `chr(65) = A`
+- `chr \xa5` ==> `chr(\xa5) = chr(165) = ¥`
+- `chr \u4F60\u597d\u554a\uff0c\u670b\u53cb\uff01` ==> `chr(\u4F60...\uff01) = 你好啊，朋友！`
+
+### 4. To be continued
 
