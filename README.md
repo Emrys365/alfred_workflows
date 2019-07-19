@@ -149,9 +149,9 @@ Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/UnicodeTools/
 
 ##### ![demo1](UnicodeTools/demo1.1.jpg)
 
-+ `uni 9`  ==>  `57`
-+ `uni √`  ==>  `\u221a`
-+ `uni 好` ==> `\u597d`
++ `uni 9`  ==>  `Code(9) = 57`
++ `uni √`  ==>  `Code(√) = \u221a`
++ `uni 好` ==> `Code(好) = \u597d`
 
 #### 2) Unicode to Character
 
