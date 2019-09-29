@@ -226,7 +226,7 @@ Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/quicker/quick
 
 + Shortcuts for `Microsoft PowerPoint` :
 
-![demo4](quicker/demo_4.png)
+![demo4](quicker/demo_4.jpg)
 
 + Shortcuts for `Microsoft Excel` :
 
