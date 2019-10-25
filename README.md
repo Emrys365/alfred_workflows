@@ -230,7 +230,7 @@ Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/quicker/quick
 
 + Shortcuts for `Microsoft Excel` :
 
-![demo5](quicker/demo_5.png)
+![demo5](quicker/demo_5.jpg)
 
 ### 5. To be continued
 
