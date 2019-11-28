@@ -212,6 +212,10 @@ Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/quicker/quick
 >
 > You can narrow the range of the list by entering some keywords.
 
++ Shortcuts for `Finder` :
+
+![demo6](quicker/demo_6.png)
+
 + Shortcuts for `Safari` :
 
 ![demo1](quicker/demo_1.png)
