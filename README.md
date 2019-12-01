@@ -86,6 +86,37 @@ Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/MathTools/Mat
 
 > The maximum value of *m* is limited for both permutations and combinations.
 
+#### 8) Base conversion
+
+##### Examples:
+
+![image-20181122020127840](MathTools/demo_8.png)
+
++ `num 10`  ==>  `base₂ = 0b1010`; `base₈ = 012`; `base₁₆ = 0xa`
++ `num 0b101` ==> `base₈ = 05`; `base₁₀ = 5`; `base₁₆ = 0x5`
++ `num 077` ==> `base₂ = 0b111111`; `base₁₀ = 63`; `base₁₆ = 0x3f`
++ `num 0o77` ==> `base₂ = 0b111111`; `base₈ = 077`; `base₁₀ = 63`; `base₁₆ = 0x3f`
++ `num 0x24` ==> `base₂ = 0b100100`; `base₈ = 044`; `base₁₀ = 36`
+
+#### 9) Bitwise Calculation
+
+##### Examples:
+
+![image-20181122020127840](MathTools/demo_9.png)
+
+##### supported operations:
+
++ `>>` : left shift
++ `<<` : right shift
++ `|` : bitwise OR
++ `&` : bitwise AND
++ `^` : bitwise XOR
++ `~` : bitwise NOT
++ `+` : add
++ `-` : subtract
++ `*` : mulitply
++ `//` : floor divide
+
 ---
 
 ### 2. cd
