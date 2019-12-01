@@ -39,7 +39,7 @@ Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/MathTools/Mat
 ![image-20181122014249233](MathTools/demo_4.png)
 
 - `sqrt .0144`  ==>  `√(.0144) = 3/25 = 0.12`
-- `sqrt 4 8/81`  ==>  `³√(8/81) = (2/3) ³√(1/3)`
+- `sqrt 3 8/81`  ==>  `³√(8/81) = (2/3) ³√(1/3) = 0.462240849567`
 
 ##### Note:
 >  Negative numbers are not supported.
@@ -208,7 +208,7 @@ It provides convenient shortcuts for complex actions in some commonly used Mac a
 
 A lot more interesting and useful shortcuts for different Mac apps are already available, and more shorcuts are being developed right now! If you have some interesting thoughts and want to contribute, please open a issue here.
 
-Currently support Mac apps are:
+Currently supported Mac apps are:
 
  * Finder
  * Microsoft Excel
