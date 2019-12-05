@@ -178,7 +178,7 @@ Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/UnicodeTools/
 
 ##### Examples:
 
-##### ![demo1](UnicodeTools/demo1.1.jpg)
+##### ![demo0](UnicodeTools/demo1.1.jpg)
 
 + `uni 9`  ==>  `Code(9) = 57`
 + `uni √`  ==>  `Code(√) = \u221a`
@@ -190,11 +190,21 @@ Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/UnicodeTools/
 
 ![demo1](UnicodeTools/demo2.1.jpg)
 
-![demo1](UnicodeTools/demo2.2.jpg)
+![demo2](UnicodeTools/demo2.2.jpg)
 
 - `chr 65`  ==>  `chr(65) = A`
 - `chr \xa5` ==> `chr(\xa5) = chr(165) = ¥`
 - `chr \u4F60\u597d\u554a\uff0c\u670b\u53cb\uff01` ==> `chr(\u4F60...\uff01) = 你好啊，朋友！`
+
+#### 3) Base64 Encoding and Decoding
+
+##### Examples:
+
+![demo3](UnicodeTools/demo3.1.png)
+
++ `base64 Hello`  ==> `SGVsbG8=` (Base64 Encoding)
++ `base64 你好` ==> `5L2g5aW9` (Base64 Encoding)
++ `base64 5pyL5Y+L` ==> `NXB5TDVZK0w=` (Base64 Encoding)    `朋友` (Base64 Decoding)
 
 -----
 
