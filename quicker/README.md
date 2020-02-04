@@ -65,5 +65,5 @@ Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/quicker.alfre
 
 + Shortcuts for `Microsoft Excel` :
 
-![demo5](demo_5.jpg)
+![demo5](demo_5.png)
 
