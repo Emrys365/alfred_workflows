@@ -6,7 +6,7 @@ This workflow is inspired by the [Quicker](https://getquicker.net) software in W
 
 It provides convenient shortcuts for complex actions in some commonly used Mac apps. For example, it enables you to resize all pictures in your MS Word document without moving your mouse.
 
-A lot more interesting and useful shortcuts for different Mac apps are already available, and more shorcuts are being developed right now! If you have some interesting thoughts and want to contribute, please open a issue here.
+A lot of more interesting and useful shortcuts for different Mac apps are already available, and more shorcuts are being developed right now! If you have some interesting thoughts and want to contribute, please open a issue here.
 
 Currently supported Mac apps are:
 
