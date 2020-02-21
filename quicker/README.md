@@ -61,7 +61,7 @@ Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/quicker.alfre
 
 + Shortcuts for `Microsoft PowerPoint` :
 
-![demo4](demo_4.jpg)
+![demo4](demo_4.png)
 
 + Shortcuts for `Microsoft Excel` :
 
