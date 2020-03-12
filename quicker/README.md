@@ -63,6 +63,14 @@ Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/quicker.alfre
 
 ![demo4](demo_4.png)
 
+> Special shortcuts for  `Microsoft PowerPoint` :
+>
+> + `option` + `: change the cursor to back an arrow during presentation
+> + `option` + `1`: change the cursor to a red pen during presentation
+> + `option` + `2`: change the cursor to a blue pen during presentation
+> + `option` + `3`: change the cursor to a green pen during presentation
+> + `option` + `4`: change the cursor to a yellow pen during presentation
+
 + Shortcuts for `Microsoft Excel` :
 
 ![demo5](demo_5.png)
