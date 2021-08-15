@@ -87,5 +87,21 @@ Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/quicker/quick
 
 -----
 
-### 5. To be continued
+### 5. BibTeX tool
+
+##### Description:
+
+A convenient local tool for parsing, storing and searching BibTeX entries.
+
+It allows you to quickly store the BibTeX string of frequently used references in an SQLite database, which will be automatically parsed and normalized via the simple BibTeX parser from [here](https://github.com/Emrys365/PlayWithLinux#3-bibtex-parser).
+
+Then you can easily retrieve or update any stored BibTeX entry by searching for some keywords in that BibTeX string.
+
+[Detailed introduction](bibtexTool/README.md)
+
+##### Download:
+
+Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/bibtexTool/BibTeX_tool.alfredworkflow) and download it directly.
+
+### 6. To be continued
 

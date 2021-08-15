@@ -23,7 +23,7 @@ Note that some shorcuts are *locale dependent*, which means they may only work w
 
 ##### Download:
 
-Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/quicker.alfredworkflow) and download it directly.
+Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/quicker/quicker.alfredworkflow) and download it directly.
 
 ##### Usage:
 

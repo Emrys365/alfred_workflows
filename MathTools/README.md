@@ -6,7 +6,7 @@ A set of *useful* and *convenient* math tools.
 
 ##### Download:
 
-Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/MathTools.alfredworkflow) and download it directly.
+Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/MathTools/MathTools.alfredworkflow) and download it directly.
 
 #### 1) Simplify fractions
 

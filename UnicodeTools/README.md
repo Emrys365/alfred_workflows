@@ -6,7 +6,7 @@ A set of *convenient​* tools for converting a character to unicode and convert
 
 ##### Download:
 
-Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/UnicodeTools.alfredworkflow) and download it directly.
+Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/UnicodeTools/UnicodeTools.alfredworkflow) and download it directly.
 
 #### 1) Character to Unicode
 
