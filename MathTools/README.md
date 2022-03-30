@@ -8,6 +8,8 @@ A set of *useful* and *convenient* math tools.
 
 Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/MathTools/MathTools.alfredworkflow) and download it directly.
 
+> NOTE: As of MacOS Monterey 12.3, the builtin Python2 has been removed. You may need to manually install it and change the language interpreter in the Script Filter to an installed Python path.
+
 #### 1) Simplify fractions
 
 ##### Examples:

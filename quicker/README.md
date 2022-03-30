@@ -25,6 +25,8 @@ Note that some shorcuts are *locale dependent*, which means they may only work w
 
 Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/quicker/quicker.alfredworkflow) and download it directly.
 
+> NOTE: As of MacOS Monterey 12.3, the builtin PHP and Python2 have been removed. You may need to manually install them and change the language interpreter in the Script Filter to an installed PHP/Python path.
+
 ##### Usage:
 
    `1st`  Open a window of the supported App

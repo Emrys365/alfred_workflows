@@ -15,6 +15,8 @@ It can remember at most MAX_LENGTH history records that you searched before and 
 
 Go [here](https://github.com/Emrys365/alfred_workflows/blob/master/cd.alfredworkflow) and download it directly.
 
+> NOTE: As of MacOS Monterey 12.3, the builtin Python2 has been removed. You may need to manually install it and change the language interpreter in the Script Filter to an installed Python path.
+
 ##### Examples:
 
 + `cd` + nothing : It will list all the history records.
