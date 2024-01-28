@@ -15,6 +15,7 @@ A set of *useful* and *convenient* math tools including:
 + Permutations and Combinations
 + Base conversion
 + Bitwise Calculation
++ Time Conversion
 
 [Detailed introduction](MathTools/README.md)
 
