@@ -6,10 +6,14 @@ This workflow could help you:
  - open the given path/file in Finder
  - (cmd) reveal the given path/file in Finder
  - (ctrl) open the given path/file in iTerm
+ - (shift) copy the selected path to Clipboard
 
 It can remember at most MAX_LENGTH history records that you searched before and you can access them again conveniently.
 
 > MAX_LENGTH is a variable that limits the maximum number of records to remember, and you could modify it as you like in `Workflow Configuration (Environment Variables)`.
+
+> [!TIP]
+> Fuzzy search and search for Chinese characters with Pinyin are now supported!
 
 ##### Download:
 
